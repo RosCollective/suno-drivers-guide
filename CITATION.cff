@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: "SUNO Driver’s Guide"
+authors:
+  - name: "The ROS Collective"
+year: 2025
+license: "CC-BY-SA-4.0"
+abstract: >
+  A practical, user-written guide documenting observable patterns in
+  generative music systems, focused on recognition, structure, and
+  reducing guesswork rather than prompt optimization.
