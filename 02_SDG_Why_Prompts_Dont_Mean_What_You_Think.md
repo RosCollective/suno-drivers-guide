@@ -1,0 +1,10 @@
+CHAPTER 2
+WHY PROMPTS DON’T MEAN WHAT YOU THINK THEY MEAN
+
+Most people approach SUNO the way they would approach a human collaborator. You describe what you want, refine it, add detail, and expect the result to move closer to your intention. Sometimes that works. Often, it doesn’t. The reason is simple and unintuitive. SUNO does not treat a prompt as a single instruction. It treats it as a collection of influences that it tries to satisfy at the same time. When you type something like “make it darker,” “more energy,” or “not a ballad,” those phrases feel meaningful to a human. They rely on shared context, taste, and implied comparison. SUNO does not have access to that context. It does not ask clarifying questions. It does not stop and negotiate meaning.
+
+It guesses. Each part of a prompt nudges the song in a particular direction. Some nudges are stronger than others. Some agree. Some quietly conflict. When they line up, the result feels intentional. When they don’t, the song drifts or collapses into something safer. This is why adding more words does not always improve results. More detail can sharpen intent, but it can also introduce contradictions. A prompt that feels precise to a human can feel noisy to SUNO.
+
+It’s also why changes don’t behave linearly. Removing a single word can radically change the outcome, while adding several sentences might do almost nothing. SUNO isn’t responding to the length of the prompt. It’s responding to how its internal influences stack up. Once you understand this, many common frustrations start to make sense. Songs that soften unexpectedly. Energy that disappears. Vocals that turn breathy. Genres that blur. These aren’t random failures. They are the result of competing influences being resolved conservatively.
+
+We’re spelling this out here because most people never get told this part. We learned it the hard way, by generating a lot of songs, squinting at a lot of results, and slowly noticing patterns. What comes next is a way to make those patterns visible, so you can actually work with them.
