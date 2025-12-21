@@ -1,6 +1,6 @@
 # SUNO Driver’s Guide
 
-*A practical guide to listening, structure, and working with generative music.*
+*A practical guide to listening to and working with generative music.*
 
 This guide was written by people who spent a lot of time actually using SUNO — getting confused, noticing patterns, and slowly learning what helps the system lock in versus drift or soften.
 
@@ -33,3 +33,4 @@ If you reference or share this work, please cite:
 
 > The ROS Collective (2025).  
 > *SUNO Driver’s Guide: What we wish we’d had when we started.*
+
