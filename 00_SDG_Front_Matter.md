@@ -4,6 +4,7 @@ What we wish we’d had when we started
 
 by the ROS Collective
 
+Version 1.0.0
 2025
 
 
