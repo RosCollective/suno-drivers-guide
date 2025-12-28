@@ -31,13 +31,16 @@ You are free to share and adapt the material, provided attribution is given and 
 
 If you reference or share this work, please cite:
 
-> The ROS Collective (2025).  
-> *SUNO Driver’s Guide: What we wish we’d had when we started.*
->
+> The ROS Collective (2025).
+> The ROS Collective (2025). SUNO Driver’s Guide: What we wish we’d had when we started. Zenodo.  
+> DOI: https://doi.org/10.5281/zenodo.18065688
+
+
 ---
 
 Version: SUNO Driver’s Guide v1.0.0 (2025)  
 License: Creative Commons Attribution–ShareAlike 4.0 International (CC BY-SA 4.0)  
 Copyright: © 2025 The ROS Collective
+
 
 
